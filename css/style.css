@@ -1,0 +1,13 @@
+*{
+	font-family: "Roboto", serif;
+}
+
+.head h1{
+	text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.control, .datalist, .select{
+	padding: 50px 0;
+}
